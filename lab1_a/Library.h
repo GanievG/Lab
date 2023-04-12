@@ -9,7 +9,7 @@
 
 struct Library
 {
-
+	//
 	Library(const Book& book);
 
 	Library() = default;
